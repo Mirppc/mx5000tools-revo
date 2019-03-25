@@ -20,6 +20,7 @@
 #include <stdlib.h>
 #include <sys/utsname.h>
 #include <sys/types.h>
+#include <sys/socket.h>
 #include <pwd.h>
 #include <unistd.h>
 #include <getopt.h>
